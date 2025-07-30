@@ -58,12 +58,12 @@
 }
 
 .button-group {
-  padding: 30px;
-  margin: 0 20px;
+  padding: 10px;
+  margin: 0 10px;
 }
 
 .button-group a {
-  padding: 2px;
+  padding: 8px;
 }
 
 .btn {
