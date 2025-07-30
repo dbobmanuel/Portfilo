@@ -163,6 +163,10 @@
     padding: 30px 3rem;
   }
 
+.post h2{
+  margin-top:55px;
+  font-size:30px;
+}
 
 .flex-column .column ,
 .flex-grid .column {
