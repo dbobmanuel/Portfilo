@@ -42,7 +42,7 @@
 
 .profile-img {
   margin: 40px 10px;
-  width: 350px;
+  width: 300px;
   height: 350px;
 }
 
@@ -59,7 +59,6 @@
 
 .button-group {
   padding: 10px;
-  display:none;
   margin: 0 10px;
 }
 
@@ -97,10 +96,9 @@
 
 .profile-img_1 {
   margin: 40px 10px;
-  width: 350px;
-  height: 350px;
+  width: 300px;
+  height: 300px;
 }
-
 .text-content {
   text-align: center;
 }
@@ -114,7 +112,7 @@
 }
 
 .flex-services > div {
-  width: 100%;
+  width: 90%;
 }
 
 .flex-project{
@@ -161,6 +159,9 @@
 .flex-items {
   flex-direction: column;
 }
+ .flex-items > div {
+    padding: 30px 3rem;
+  }
 
 
 .flex-column .column ,
